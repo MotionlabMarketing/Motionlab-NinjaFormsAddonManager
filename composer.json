@@ -1,0 +1,6 @@
+{
+  "name": "wordpress-plugins-purchased/ninja-forms-addon-manager",
+  "description": "Manage the addons installed for Ninja Forms",
+  "type": "wordpress-plugin",
+  "license": "Copyright WP Ninjas, LLC"
+}

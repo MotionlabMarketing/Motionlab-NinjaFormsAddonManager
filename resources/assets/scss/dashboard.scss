@@ -1,0 +1,15 @@
+$nf-active: #84CC1E; /* Green */
+$nf-interactive: #1EA9EA; /* Blue */
+
+.nf-oauth-notice,
+.nf-oauth-success {
+    color:white;
+    padding:10px;
+    line-height:26px;
+    text-align:center;
+    background-color: $nf-interactive;
+}
+.nf-oauth-success {
+    font-weight:bold;
+    background-color: $nf-active;
+}
